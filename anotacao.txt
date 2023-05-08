@@ -1,0 +1,10 @@
+metodo é uma forma de origanizar instruções em um programa, permitindo que trechos de codigo sejam reutilizados
+parametros é o que vc passa quando chama o metodo
+gems - é um pacote que oferece funcionalidades a fim de resolver uma necessidade especifica de um programa ruby.
+seria como uma lib em outras lingguagens
+gem list - lista as gms instaladas
+
+bundler agrega todas as gems que precisamos em um arquivo
+gem install bundler
+
+executar o comando - bundler
